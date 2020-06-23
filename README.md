@@ -1,3 +1,3 @@
-# Map
+# Google Maps Android App
 
-This is the android app of Dtecting Live Location. 
+Intergration of the google maps in the android app. 
